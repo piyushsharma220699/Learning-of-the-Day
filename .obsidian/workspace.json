@@ -13,26 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6492cb29218af1af",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "JWT Tokens.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -159,9 +146,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6492cb29218af1af",
+  "active": "4e34d42c352f4133",
   "lastOpenFiles": [
-    "README.md",
-    "JWT Tokens.md"
+    "Attachments/Images/JWTstring-encoded.png",
+    "JWT Tokens.md",
+    "Attachments/Images/JWTstring-decoded.png",
+    "Attachments/Images",
+    "Attachments",
+    "README.md"
   ]
 }

@@ -1,3 +1,3 @@
-# Learning-of-the-Day
+# Building Piyush Sharma
 
-This is my learning of the day. This is it!
+I'm trying to document whatever I learn everyday, thanks to Obsidian Git.
