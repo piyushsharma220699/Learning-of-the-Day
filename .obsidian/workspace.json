@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 229.5
   },
   "right": {
     "id": "2790373a68d5d10a",
@@ -146,7 +146,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4e34d42c352f4133",
+  "active": "4356498aff1e2f3d",
   "lastOpenFiles": [
     "Attachments/Images/JWTstring-encoded.png",
     "JWT Tokens.md",
