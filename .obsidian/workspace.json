@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "f75def983ddceb71",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "GraphQL.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JWT Tokens.md",
+                "file": "GraphQL.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JWT Tokens.md",
+                "file": "GraphQL.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JWT Tokens.md"
+                "file": "GraphQL.md"
               }
             }
           }
@@ -146,10 +159,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4356498aff1e2f3d",
+  "active": "f75def983ddceb71",
   "lastOpenFiles": [
-    "Attachments/Images/JWTstring-encoded.png",
+    "GraphQL.md",
     "JWT Tokens.md",
+    "Attachments/Images/JWTstring-encoded.png",
     "Attachments/Images/JWTstring-decoded.png",
     "Attachments/Images",
     "Attachments",
