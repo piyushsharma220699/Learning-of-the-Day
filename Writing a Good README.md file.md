@@ -1,7 +1,11 @@
 README.md file is a guide that gives users a detailed description of the project you have worked on. It is the first file that one should read when starting a new project. It is written in the markdown format.
 
-#### Why writing README is a good idea?
+## Why writing README is a good idea?
 
+
+
+
+## What is the right way to write a README file?
 
 There is no right way to write a README file, but one should include the below points in your README : 
 
