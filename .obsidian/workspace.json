@@ -4,59 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "a4016a2d8efae18d",
+        "id": "5adb93d56ee9791c",
         "type": "tabs",
         "children": [
           {
-            "id": "4356498aff1e2f3d",
+            "id": "f602c10312ba64cf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JWT Tokens.md",
+                "file": "Version Control/Writing a Good README.md file.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "f75def983ddceb71",
+            "id": "16300c13f91ea5cc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GraphQL.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7c2315dcc19777a7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Writing a Good README.md file.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "241513b85fd05288",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "GitHub Actions.md",
+                "file": "Version Control/PR and Issue Templates.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -122,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GitHub Actions.md",
+                "file": "Version Control/PR and Issue Templates.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GitHub Actions.md",
+                "file": "Version Control/PR and Issue Templates.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GitHub Actions.md"
+                "file": "Version Control/PR and Issue Templates.md"
               }
             }
           }
@@ -170,7 +146,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 200,
     "collapsed": true
   },
   "left-ribbon": {
@@ -183,14 +159,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "241513b85fd05288",
+  "active": "16300c13f91ea5cc",
   "lastOpenFiles": [
-    "Pasted image 20230406211251.png",
-    "Writing a Good README.md file.md",
-    "README.md",
-    "GitHub Actions.md",
+    "Version Control/GitHub Actions.md",
+    "Version Control/PR and Issue Templates.md",
+    "Version Control/Writing a Good README.md file.md",
+    "Attachments/Images/Workflow-yaml-job.png",
     "JWT Tokens.md",
+    "Attachments/Images/Starter-Workflow-Demo.png",
     "GraphQL.md",
+    "Attachments/Images/Workflow-Actions.jpg",
+    "Version Control",
+    "Attachments/Images/Workflow-Contents.jpg",
+    "Attachments/Images/Workflow-Event-And-Runner.png",
+    "README.md",
     "Attachments/Images/JWTstring-encoded.png",
     "Attachments/Images/JWTstring-decoded.png",
     "Attachments/Images",

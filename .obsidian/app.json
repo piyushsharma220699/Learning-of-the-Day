@@ -1,3 +1,5 @@
 {
-  "alwaysUpdateLinks": true
+  "alwaysUpdateLinks": true,
+  "spellcheck": true,
+  "attachmentFolderPath": "Attachments/Images"
 }
