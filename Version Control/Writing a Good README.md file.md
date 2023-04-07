@@ -18,7 +18,7 @@ There is no right way to write a README file, but one should include the below p
 
 More points which will help others to contribute to your repository:
 1. Add A License :: Use https://choosealicense.com/ to select
-2. How to Contribute? :: 
+2. How to Contribute? :: https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/setting-guidelines-for-repository-contributors
 
 Other points which can be included are:
 1. Badges : Use https://shields.io/
