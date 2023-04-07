@@ -1,3 +1,7 @@
+https://towardsdatascience.com/understanding-the-fundamentals-of-git-25b5b7ded3c4
+
+https://initialcommit.com/blog/Learn-Git-Object-Database
+
 - git show 
 
 ## What is HEAD?

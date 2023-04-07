@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Version Control/Basic GitHub Commands.md",
+                "file": "Version Control/Basic Git Commands.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Version Control/Basic GitHub Commands.md",
+                "file": "Version Control/Basic Git Commands.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Version Control/Basic GitHub Commands.md",
+                "file": "Version Control/Basic Git Commands.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Version Control/Basic GitHub Commands.md"
+                "file": "Version Control/Basic Git Commands.md"
               }
             }
           }
@@ -174,7 +174,7 @@
   "active": "e393f6729ab9a111",
   "lastOpenFiles": [
     "Version Control/Git Stash.md",
-    "Version Control/Basic GitHub Commands.md",
+    "Version Control/Basic Git Commands.md",
     "Version Control/Writing a Good README.md file.md",
     "Version Control/GitHub Actions.md",
     "Attachments/Images/Workflow-Contents.jpg",
