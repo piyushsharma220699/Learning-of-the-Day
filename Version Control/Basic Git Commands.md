@@ -1,3 +1,5 @@
+At its core, the Git version control system is a content addressable filesystem. It uses the **SHA-1** hash function to name content.
+
 https://towardsdatascience.com/understanding-the-fundamentals-of-git-25b5b7ded3c4
 
 https://initialcommit.com/blog/Learn-Git-Object-Database
