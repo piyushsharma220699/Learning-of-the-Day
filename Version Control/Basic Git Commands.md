@@ -6,6 +6,10 @@ https://initialcommit.com/blog/Learn-Git-Object-Database
 
 https://git-scm.com/book/en/v2/Git-Internals-Git-Objects
 
+https://www.freecodecamp.org/news/git-cheat-sheet/
+
+https://initialcommit.com/blog/what-is-a-tree-in-git
+
 - git show 
 
 ## How do you create a New Repository?
