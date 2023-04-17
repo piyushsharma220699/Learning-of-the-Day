@@ -45,6 +45,8 @@ rm -rf .git/
 
 SOURCE :: https://stackoverflow.com/questions/315911/git-for-beginners-the-definitive-practical-guide
 
+https://ohmyz.sh/#install
+
 ## What is HEAD?
 
 When working with Git, only _one_ branch can be checked out at a time - and this is what's called the "HEAD" branch. Often, this is also referred to as the "active" or "current" branch.
