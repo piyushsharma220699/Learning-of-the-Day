@@ -8,55 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "f602c10312ba64cf",
+            "id": "7d924879120fa83e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Version Control/Writing a Good README.md file.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "16300c13f91ea5cc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Version Control/Writing a Good README.md file.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e393f6729ab9a111",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Version Control/Basic Git Commands.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "118b44fda93e3461",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Version Control/Basic Git Commands.md",
+                "file": "Python/Abstract Syntax Tree (AST).md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -122,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Version Control/Basic Git Commands.md",
+                "file": "Python/Abstract Syntax Tree (AST).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Version Control/Basic Git Commands.md",
+                "file": "Python/Abstract Syntax Tree (AST).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Version Control/Basic Git Commands.md"
+                "file": "Python/Abstract Syntax Tree (AST).md"
               }
             }
           }
@@ -183,10 +146,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "118b44fda93e3461",
+  "active": "7d924879120fa83e",
   "lastOpenFiles": [
-    "Version Control/Git Reset.md",
+    "Python/Abstract Syntax Tree (AST).md",
+    "Python",
     "Version Control/Basic Git Commands.md",
+    "Version Control/Git Reset.md",
     "Version Control/Git Stash.md",
     "Version Control/Writing a Good README.md file.md",
     "Version Control/GitHub Actions.md",
