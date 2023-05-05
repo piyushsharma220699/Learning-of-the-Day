@@ -23,14 +23,28 @@
             "id": "b0938d77cdd01c44",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.2.7"
+                "file": "Python/Abstract Syntax Tree (AST).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a487bb1e88207ef0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Python/Python Top Interview Questions.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -104,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DSA/HASHING.md",
+                "file": "Python/Python Top Interview Questions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DSA/HASHING.md",
+                "file": "Python/Python Top Interview Questions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DSA/HASHING.md"
+                "file": "Python/Python Top Interview Questions.md"
               }
             }
           }
@@ -165,12 +179,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b0938d77cdd01c44",
+  "active": "a487bb1e88207ef0",
   "lastOpenFiles": [
+    "Python/Abstract Syntax Tree (AST).md",
+    "Python/Python Top Interview Questions.md",
     "Version Control/GitHub Actions.md",
     "Version Control/Git Stash.md",
     "Version Control/Git Reset.md",
-    "Python/Abstract Syntax Tree (AST).md",
     "DSA/HASHING.md",
     "Databases/ACID PROPERTIES.md",
     "Attachments/Images/WhatsApp Image 2023-05-04 at 05.30.40.jpg",
