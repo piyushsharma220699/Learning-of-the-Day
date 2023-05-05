@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "b0938d77cdd01c44",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.2.7"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -62,6 +73,14 @@
             "type": "leaf",
             "state": {
               "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "621b00b6c9c17711",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
               "state": {}
             }
           }
@@ -146,23 +165,23 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ba178b67470e1497",
+  "active": "b0938d77cdd01c44",
   "lastOpenFiles": [
-    "Databases/ACID PROPERTIES.md",
+    "Version Control/GitHub Actions.md",
+    "Version Control/Git Stash.md",
+    "Version Control/Git Reset.md",
+    "Python/Abstract Syntax Tree (AST).md",
     "DSA/HASHING.md",
+    "Databases/ACID PROPERTIES.md",
     "Attachments/Images/WhatsApp Image 2023-05-04 at 05.30.40.jpg",
     "Attachments/Images/WhatsApp Image 2023-05-04 at 05.30.39.jpg",
     "Attachments/Images/WhatsApp Image 2023-05-04 at 05.30.38.jpg",
     "DSA",
     "Attachments/Images/Pasted image 20230430001951.png",
-    "Python/Abstract Syntax Tree (AST).md",
     "Databases",
     "Python",
     "Version Control/Basic Git Commands.md",
-    "Version Control/Git Reset.md",
-    "Version Control/Git Stash.md",
     "Version Control/Writing a Good README.md file.md",
-    "Version Control/GitHub Actions.md",
     "Attachments/Images/Workflow-Contents.jpg",
     "Attachments/Images/Workflow-yaml-job.png",
     "JWT Tokens.md",
