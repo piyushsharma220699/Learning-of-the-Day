@@ -1,3 +1,9 @@
+
+### What is a Transaction?
+
+**A transaction is a sequence of operations that are executed as a single unit of work**, and a transaction may consist of one or many steps. A transaction access data using read and write operations.
+If a transaction succeeds, the data that were modified during the transaction will be saved in the database. If some error occurs and needs to be cancelled or reverted, the changes that were made in the data will not be applied.
+
 ACID is an acronym that stands for Atomicity, Consistency, Isolation, and Durability.
 
 <H1>Atomicity</H1>
@@ -16,6 +22,15 @@ For example, if the transaction fails after deducting $500 from Account A but be
 
 Atomicity guarantees that transactions are either fully completed or fully rolled back, which helps to maintain data consistency and integrity in the database.
 
+Eg:
+
+START TRANSACTION
+- Insert an instagram post for user with user_id=100
+- Increase the total post count for user with user_id=100
+END TRANSACTION 
+
+(either both should happen or none)
+
 ---
 **HOW DO WE CREATE A TRANSACTION?**
 
@@ -32,3 +47,18 @@ To create a transaction in a database, you need to follow a few basic steps:
 ![[Pasted image 20230430001951.png]]
 
 <h1> Consistency </h1>
+The database should move from one consistent state to another consistent state. Validation rules must be put in place to ensure data consistency. 
+
+Take for example a database field called SSNUMBER(10). It can only accept a 10 digit numeric value (0 to 9), which must be enforced by a routine that rejects anything lower than 10 digits and cannot be greater than 10 digits.
+
+### How do we ensure Consistency?
+
+Through Triggers, Cascades and Constraints.
+- Cascades : Cascades suggest that if you delete a particular role, you should delete everything associated with it. In SQL, "cascade" refers to the behavior of automatically propagating changes to related tables when a row is updated, deleted or inserted.
+
+Eg: If there is a User table and a Post table. Now as all the posts are related to some user and the user is deactivated, then all the post rows related to that user_id should also get deleted from the posts table. Also, if there is another table which stores the total_posts_count value for a user_id, that row should also get deleted.
+IF THE PARENTS GET DELETED, ALL THE CHILD ARE AUTOMATICALLY DIED OFF.
+
+- Triggers : In SQL, a trigger is a special type of stored procedure that is automatically executed in response to certain events such as insert, update, or delete operations on a table.
+
+![[Triggers-in-DBMS.png]]
