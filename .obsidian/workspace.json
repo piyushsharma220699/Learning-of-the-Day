@@ -35,9 +35,11 @@
             "id": "250c564cb7fbf494",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.2.8"
+                "file": "Caching.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -100,7 +102,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 229.5
+    "width": 200
   },
   "right": {
     "id": "2790373a68d5d10a",
@@ -116,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Databases/ACID Properties.md",
+                "file": "Caching.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Databases/ACID Properties.md",
+                "file": "Caching.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Databases/ACID Properties.md"
+                "file": "Caching.md"
               }
             }
           }
@@ -179,6 +181,14 @@
   },
   "active": "250c564cb7fbf494",
   "lastOpenFiles": [
+    "DSA/HASHING.md",
+    "Caching.md",
+    "Attachments/Images/Pasted image 20230512023733.png",
+    "Attachments/Images/Pasted image 20230512021823.png",
+    "Attachments/Images/Pasted image 20230512015205.png",
+    "Attachments/Images/Pasted image 20230512014954.png",
+    "Caching-Points.png.md",
+    "Attachments/Images/Pasted image 20230512014908.png",
     "Python/Python Top Interview Questions.md",
     "Python/Abstract Syntax Tree (AST).md",
     "Triggers-in-DBMS.png.md",
@@ -187,7 +197,6 @@
     "Version Control/GitHub Actions.md",
     "Version Control/Git Stash.md",
     "Version Control/Git Reset.md",
-    "DSA/HASHING.md",
     "Attachments/Images/WhatsApp Image 2023-05-04 at 05.30.40.jpg",
     "Attachments/Images/WhatsApp Image 2023-05-04 at 05.30.39.jpg",
     "Attachments/Images/WhatsApp Image 2023-05-04 at 05.30.38.jpg",
@@ -197,14 +206,9 @@
     "Python",
     "Version Control/Basic Git Commands.md",
     "Version Control/Writing a Good README.md file.md",
-    "Attachments/Images/Workflow-Contents.jpg",
-    "Attachments/Images/Workflow-yaml-job.png",
     "JWT Tokens.md",
-    "Attachments/Images/Starter-Workflow-Demo.png",
     "GraphQL.md",
-    "Attachments/Images/Workflow-Actions.jpg",
     "Version Control",
-    "Attachments/Images/Workflow-Event-And-Runner.png",
     "README.md",
     "Attachments/Images",
     "Attachments"
