@@ -30,9 +30,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "250c564cb7fbf494",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.2.8"
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -167,7 +177,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b0938d77cdd01c44",
+  "active": "250c564cb7fbf494",
   "lastOpenFiles": [
     "Python/Python Top Interview Questions.md",
     "Python/Abstract Syntax Tree (AST).md",
