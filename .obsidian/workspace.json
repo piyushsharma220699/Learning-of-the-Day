@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "ba178b67470e1497",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DSA/HASHING.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "b0938d77cdd01c44",
             "type": "leaf",
             "state": {
@@ -32,19 +20,19 @@
             }
           },
           {
-            "id": "250c564cb7fbf494",
+            "id": "9900ede83852872b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Caching.md",
+                "file": "System Design/Pagination.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -118,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Caching.md",
+                "file": "System Design/Pagination.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Caching.md",
+                "file": "System Design/Pagination.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Caching.md"
+                "file": "System Design/Pagination.md"
               }
             }
           }
@@ -179,10 +167,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "250c564cb7fbf494",
+  "active": "9900ede83852872b",
   "lastOpenFiles": [
-    "DSA/HASHING.md",
-    "Caching.md",
+    "System Design/Caching.md",
+    "Databases/Indexing a DB.md",
+    "System Design/Indexing.md",
+    "System Design/Pagination.md",
+    "DSA/Hashing.md",
+    "JWT Tokens.md",
+    "README.md",
+    "GraphQL.md",
+    "Databases/Triggers-in-DBMS.png.md",
+    "System Design",
     "Attachments/Images/Pasted image 20230512023733.png",
     "Attachments/Images/Pasted image 20230512021823.png",
     "Attachments/Images/Pasted image 20230512015205.png",
@@ -191,7 +187,6 @@
     "Attachments/Images/Pasted image 20230512014908.png",
     "Python/Python Top Interview Questions.md",
     "Python/Abstract Syntax Tree (AST).md",
-    "Triggers-in-DBMS.png.md",
     "Databases/ACID Properties.md",
     "Attachments/Images/Pasted image 20230509171914.png",
     "Version Control/GitHub Actions.md",
@@ -206,10 +201,7 @@
     "Python",
     "Version Control/Basic Git Commands.md",
     "Version Control/Writing a Good README.md file.md",
-    "JWT Tokens.md",
-    "GraphQL.md",
     "Version Control",
-    "README.md",
     "Attachments/Images",
     "Attachments"
   ]
