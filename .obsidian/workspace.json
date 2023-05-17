@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "5d10ee522e1395dd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "System Design/Load Balancers.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -167,11 +179,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0391cbceb4b5e6a2",
+  "active": "4e34d42c352f4133",
   "lastOpenFiles": [
     "System Design/Leader Election for Auto-Recovery.md",
-    "System Design/Caching.md",
+    "Proxy Server.md",
     "System Design/Load Balancers.md",
+    "System Design/Caching.md",
     "Attachments/Images/Weighted-Round-Robin-Algorithm.jpg",
     "Attachments/Images/Round-Robin-Algorithm.jpg",
     "Attachments/Images/Pasted image 20230517143038.png",
