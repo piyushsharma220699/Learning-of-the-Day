@@ -4,28 +4,28 @@
     "type": "split",
     "children": [
       {
-        "id": "5adb93d56ee9791c",
+        "id": "d15e89d37037ce99",
         "type": "tabs",
         "children": [
           {
-            "id": "b0938d77cdd01c44",
+            "id": "a768f27d45b117a6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Databases/ACID Properties.md",
+                "file": "System Design/Leader Election for Auto-Recovery.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "9900ede83852872b",
+            "id": "0391cbceb4b5e6a2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "System Design/Pagination.md",
+                "file": "System Design/Load Balancers.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "System Design/Pagination.md",
+                "file": "System Design/Load Balancers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "System Design/Pagination.md",
+                "file": "System Design/Load Balancers.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "System Design/Pagination.md"
+                "file": "System Design/Load Balancers.md"
               }
             }
           }
@@ -167,12 +167,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9900ede83852872b",
+  "active": "0391cbceb4b5e6a2",
   "lastOpenFiles": [
+    "System Design/Leader Election for Auto-Recovery.md",
     "System Design/Caching.md",
+    "System Design/Load Balancers.md",
+    "Attachments/Images/Weighted-Round-Robin-Algorithm.jpg",
+    "Attachments/Images/Round-Robin-Algorithm.jpg",
+    "Attachments/Images/Pasted image 20230517143038.png",
+    "Databases/ACID Properties.md",
+    "System Design/Pagination.md",
+    "Attachments/Images/Leader-Election-Automated-Recovery.jpg",
+    "Attachments/Images/Leader-Election-NO-Recovery.jpg",
     "Databases/Indexing a DB.md",
     "System Design/Indexing.md",
-    "System Design/Pagination.md",
     "DSA/Hashing.md",
     "JWT Tokens.md",
     "README.md",
@@ -187,16 +195,10 @@
     "Attachments/Images/Pasted image 20230512014908.png",
     "Python/Python Top Interview Questions.md",
     "Python/Abstract Syntax Tree (AST).md",
-    "Databases/ACID Properties.md",
-    "Attachments/Images/Pasted image 20230509171914.png",
     "Version Control/GitHub Actions.md",
     "Version Control/Git Stash.md",
     "Version Control/Git Reset.md",
-    "Attachments/Images/WhatsApp Image 2023-05-04 at 05.30.40.jpg",
-    "Attachments/Images/WhatsApp Image 2023-05-04 at 05.30.39.jpg",
-    "Attachments/Images/WhatsApp Image 2023-05-04 at 05.30.38.jpg",
     "DSA",
-    "Attachments/Images/Pasted image 20230430001951.png",
     "Databases",
     "Python",
     "Version Control/Basic Git Commands.md",
