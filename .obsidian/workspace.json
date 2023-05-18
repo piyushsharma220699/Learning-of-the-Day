@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "ec5ded5ee1af0256",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "System Design/Load Balancers.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -93,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "System Design/Message Queues or Message Brokers.md",
+                "file": "System Design/Load Balancers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "System Design/Message Queues or Message Brokers.md",
+                "file": "System Design/Load Balancers.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "System Design/Message Queues or Message Brokers.md"
+                "file": "System Design/Load Balancers.md"
               }
             }
           }
@@ -154,15 +167,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8dce52f0ddfaf55d",
+  "active": "ec5ded5ee1af0256",
   "lastOpenFiles": [
-    "Attachments/Images/Message-Queue-YouTube.jpg",
-    "System Design/Caching.md",
-    "Proxy Server.md",
+    "System Design/Content Delivery Networks (CDN).md",
+    "System Design/Load Balancers.md",
     "System Design/Pagination.md",
     "System Design/Message Queues or Message Brokers.md",
     "System Design/Leader Election for Auto-Recovery.md",
-    "System Design/Load Balancers.md",
+    "System Design/Caching.md",
+    "Attachments/Images/Message-Queue-YouTube.jpg",
+    "Proxy Server.md",
     "Attachments/Images/Message-Queue-AWS.png",
     "Attachments/Images/Message-Queue-Dominoes.jpg",
     "Attachments/Images/Dominoes-Single-Store.jpg",
@@ -181,7 +195,6 @@
     "Databases/Triggers-in-DBMS.png.md",
     "System Design",
     "Attachments/Images/Pasted image 20230512023733.png",
-    "Attachments/Images/Pasted image 20230512021823.png",
     "Caching-Points.png.md",
     "Python/Python Top Interview Questions.md",
     "Python/Abstract Syntax Tree (AST).md",
