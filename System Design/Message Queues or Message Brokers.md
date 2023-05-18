@@ -33,6 +33,20 @@ This, Orchestrator, Notifier and Load Balancer together becomes a Message Queue.
 
 For more, check : https://www.youtube.com/watch?v=oUJbuFMyBDk
 
+### Another Example
+
+In case of YouTube, let's suppose the creator (T-Series) upload a video in 4k. But since this can't be consumed by every device, it is supposed to be converted into different resolutions: 144p, 720p, 1080p etc. Also, for every video, YouTube provides auto-generated captions too. Now after we upload a video, the format changing and caption generation happens in the background asynchronously using Message Queues.
+
+![[Message-Queue-YouTube.jpg]]
+
+#### Important Points :
+
+- **The message broker can hold/retain the request for 'n' number of days**, which is configurable. You can set the TTL for requests, expired requests will be deleted.
+- **Message Queues act as a Buffer**, eg: we're receiving requests at the rate of 100 req/minute but our service can handle only 60 req/minute, then we put the requests in the message queue so that they're processed slowly by our service.
+- **Message Brokers can REQUEUE the message if not deleted by the CONSUMER**. Eg: Let's suppose the message is taken by the consumer from the queue, but while processing it dies. Now there are couple of ways to handle this stuff. One of them being:
+	- **Use a Message Visibility Timeout** **:** When a message is delivered to a consumer, the broker usually sets a visibility timeout for that message. During this period, the message is considered "invisible" to other consumers, ensuring that only one consumer processes it at a time. If the consumer fails to acknowledge or delete the message within the visibility timeout, the message is automatically made visible again to other consumers, effectively requeuing it for processing.
+
+
 ### Message Queue Terminology
 
 
