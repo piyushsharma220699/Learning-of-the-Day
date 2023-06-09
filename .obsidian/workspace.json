@@ -30,9 +30,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "03ffb5966e6b5155",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.3.4"
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -167,7 +177,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ec5ded5ee1af0256",
+  "active": "03ffb5966e6b5155",
   "lastOpenFiles": [
     "System Design/Content Delivery Networks (CDN).md",
     "System Design/Load Balancers.md",
