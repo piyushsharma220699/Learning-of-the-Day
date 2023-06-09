@@ -35,9 +35,11 @@
             "id": "03ffb5966e6b5155",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.3.4"
+                "file": "Databases/Learning MongoDB.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -116,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "System Design/Load Balancers.md",
+                "file": "Databases/Learning MongoDB.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "System Design/Load Balancers.md",
+                "file": "Databases/Learning MongoDB.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "System Design/Load Balancers.md"
+                "file": "Databases/Learning MongoDB.md"
               }
             }
           }
@@ -179,6 +181,11 @@
   },
   "active": "03ffb5966e6b5155",
   "lastOpenFiles": [
+    "Attachments/Images/CreateCollectionsinMongoDB.png",
+    "Attachments/Images/MongoErrors.png",
+    "Attachments/Images/Pasted image 20230609162102.png",
+    "Attachments/Images/JSONvsBSON.png",
+    "Databases/Learning MongoDB.md",
     "System Design/Content Delivery Networks (CDN).md",
     "System Design/Load Balancers.md",
     "System Design/Pagination.md",
@@ -194,8 +201,6 @@
     "Attachments/Images/Round-Robin-Algorithm.jpg",
     "Attachments/Images/Pasted image 20230517143038.png",
     "Databases/ACID Properties.md",
-    "Attachments/Images/Leader-Election-Automated-Recovery.jpg",
-    "Attachments/Images/Leader-Election-NO-Recovery.jpg",
     "Databases/Indexing a DB.md",
     "System Design/Indexing.md",
     "DSA/Hashing.md",
@@ -204,7 +209,6 @@
     "GraphQL.md",
     "Databases/Triggers-in-DBMS.png.md",
     "System Design",
-    "Attachments/Images/Pasted image 20230512023733.png",
     "Caching-Points.png.md",
     "Python/Python Top Interview Questions.md",
     "Python/Abstract Syntax Tree (AST).md",
