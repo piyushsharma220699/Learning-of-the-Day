@@ -24,7 +24,7 @@
 
 ![[Things2Download.jpg]]
 
-### SQL vs MongoDB
+### SQL vs MongoDB (Analogy)
 
 ![[SQLvsMongoDB.jpg]]
 
@@ -43,6 +43,8 @@ Also, Here are the values present in the Collection :
 #### system.sessions :
 ![[System.Sessions.png]]
 
+## DataTypes in MongoDB
+---
 
 
 
@@ -60,11 +62,14 @@ $ db.<collection_name/>.insertOne(<BSON Object/>)
 
 #### READ
 
+We can see what all collections are there in a MongoDB database
 $ show collections
 
 ### UPDATE
 
-DE
+### DELETE
+
+$ db.<collection_name/>.drop()
 
 ## CRUD on Documents
 ---
