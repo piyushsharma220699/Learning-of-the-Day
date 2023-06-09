@@ -1,7 +1,9 @@
+### Basics
 
 - Document Oriented Database
 - Open Source
 - Written in C++
+- Dynamic Database Schema
 - The data is stored in BSON objects (Binary JavaScript Object Notation), which is similar to a JSON object but contains more datatypes than JSON. Eg: ObjectID, Date etc and also contains some additional information like 
 	- **BSON File Extension :** .bson
 	- BSON files are not human readable but can be extracted and parsed by programming languages or MongoDB Tools.
@@ -12,6 +14,37 @@
 ![[JSONvsBSON.png]]
 
 ### Lazy Creation of resources in MongoDB
+
+### Things to download On-Premise to run MongoDB
+
+1. Basic MongoDB Community Edition : https://www.mongodb.com/try/download/community
+2. MongoDB Compass : https://www.mongodb.com/products/compass
+3. MongoDB Shell : https://www.mongodb.com/products/shell
+4. MongoDB Drivers
+
+![[Things2Download.jpg]]
+
+### SQL vs MongoDB
+
+![[SQLvsMongoDB.jpg]]
+
+## Default Databases in MongoDB Cluster
+---
+
+There are three Default Databases : admin, config and local. In the admin database, a collection by the name system.version is present. In config database, system. sessions is present and in local database, startup_log collection is present.
+
+![[DefaultCluster.jpg]]
+
+Also, Here are the values present in the Collection :
+
+#### system.version : 
+![[System.Version.png]]
+
+#### system.sessions :
+![[System.Sessions.png]]
+
+
+
 
 ## CRUD on Collections
 ---
@@ -29,6 +62,9 @@ $ db.<collection_name/>.insertOne(<BSON Object/>)
 
 $ show collections
 
+### UPDATE
+
+DE
 
 ## CRUD on Documents
 ---
