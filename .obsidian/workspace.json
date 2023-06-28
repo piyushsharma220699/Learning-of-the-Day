@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Databases/Learning MongoDB.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Databases/Learning MongoDB.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Databases/Learning MongoDB.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Databases/Learning MongoDB.md"
+                "file": "README.md"
               }
             }
           }
@@ -181,6 +181,7 @@
   },
   "active": "03ffb5966e6b5155",
   "lastOpenFiles": [
+    "Databases/Learning MongoDB.md",
     "Attachments/Images/SQLvsMongoDB.jpg",
     "Attachments/Images/Things2Download.jpg",
     "Attachments/Images/DefaultCluster.jpg",
@@ -190,7 +191,6 @@
     "Attachments/Images/MongoErrors.png",
     "Attachments/Images/Pasted image 20230609162102.png",
     "Attachments/Images/JSONvsBSON.png",
-    "Databases/Learning MongoDB.md",
     "System Design/Content Delivery Networks (CDN).md",
     "System Design/Load Balancers.md",
     "System Design/Pagination.md",
@@ -199,7 +199,6 @@
     "System Design/Caching.md",
     "Attachments/Images/Message-Queue-YouTube.jpg",
     "Proxy Server.md",
-    "Attachments/Images/Message-Queue-AWS.png",
     "Databases/ACID Properties.md",
     "Databases/Indexing a DB.md",
     "System Design/Indexing.md",
