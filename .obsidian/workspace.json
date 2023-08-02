@@ -4,47 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "85ff7c73c3831c00",
+        "id": "2262c5bade45adc3",
         "type": "tabs",
         "children": [
           {
-            "id": "8dce52f0ddfaf55d",
+            "id": "4b3d7b5c455900dd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "System Design/Message Queues or Message Brokers.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ec5ded5ee1af0256",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "System Design/Load Balancers.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "03ffb5966e6b5155",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
+                "file": "JWT Tokens.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -118,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "JWT Tokens.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "JWT Tokens.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "JWT Tokens.md"
               }
             }
           }
@@ -179,8 +154,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "03ffb5966e6b5155",
+  "active": "4b3d7b5c455900dd",
   "lastOpenFiles": [
+    "README.md",
+    "Proxy Server.md",
+    "Python/Virtual Environments.md",
+    "System Design/OAuth2.md",
+    "Python/Abstract Syntax Tree (AST).md",
+    "System Design/Message Queues or Message Brokers.md",
+    "System Design/Load Balancers.md",
+    "Python/Python Top Interview Questions.md",
     "Databases/Learning MongoDB.md",
     "Attachments/Images/SQLvsMongoDB.jpg",
     "Attachments/Images/Things2Download.jpg",
@@ -192,25 +175,19 @@
     "Attachments/Images/Pasted image 20230609162102.png",
     "Attachments/Images/JSONvsBSON.png",
     "System Design/Content Delivery Networks (CDN).md",
-    "System Design/Load Balancers.md",
     "System Design/Pagination.md",
-    "System Design/Message Queues or Message Brokers.md",
     "System Design/Leader Election for Auto-Recovery.md",
     "System Design/Caching.md",
     "Attachments/Images/Message-Queue-YouTube.jpg",
-    "Proxy Server.md",
     "Databases/ACID Properties.md",
     "Databases/Indexing a DB.md",
     "System Design/Indexing.md",
     "DSA/Hashing.md",
     "JWT Tokens.md",
-    "README.md",
     "GraphQL.md",
     "Databases/Triggers-in-DBMS.png.md",
     "System Design",
     "Caching-Points.png.md",
-    "Python/Python Top Interview Questions.md",
-    "Python/Abstract Syntax Tree (AST).md",
     "Version Control/GitHub Actions.md",
     "Version Control/Git Stash.md",
     "Version Control/Git Reset.md",
