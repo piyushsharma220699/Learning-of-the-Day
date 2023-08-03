@@ -1,0 +1,1 @@
+When we send a request to the server, sometimes the server wants you to store some data in your local storage. That data is .

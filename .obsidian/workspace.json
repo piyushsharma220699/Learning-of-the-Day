@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JWT Tokens.md",
+                "file": "System Design/Cookies.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JWT Tokens.md",
+                "file": "System Design/Cookies.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JWT Tokens.md",
+                "file": "System Design/Cookies.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JWT Tokens.md"
+                "file": "System Design/Cookies.md"
               }
             }
           }
@@ -156,10 +156,13 @@
   },
   "active": "4b3d7b5c455900dd",
   "lastOpenFiles": [
+    "System Design/Caching.md",
+    "System Design/Cookies.md",
+    "System Design/OAuth2.md",
+    "JWT Tokens.md",
     "README.md",
     "Proxy Server.md",
     "Python/Virtual Environments.md",
-    "System Design/OAuth2.md",
     "Python/Abstract Syntax Tree (AST).md",
     "System Design/Message Queues or Message Brokers.md",
     "System Design/Load Balancers.md",
@@ -177,13 +180,11 @@
     "System Design/Content Delivery Networks (CDN).md",
     "System Design/Pagination.md",
     "System Design/Leader Election for Auto-Recovery.md",
-    "System Design/Caching.md",
     "Attachments/Images/Message-Queue-YouTube.jpg",
     "Databases/ACID Properties.md",
     "Databases/Indexing a DB.md",
     "System Design/Indexing.md",
     "DSA/Hashing.md",
-    "JWT Tokens.md",
     "GraphQL.md",
     "Databases/Triggers-in-DBMS.png.md",
     "System Design",
@@ -195,7 +196,6 @@
     "Databases",
     "Python",
     "Version Control/Basic Git Commands.md",
-    "Version Control/Writing a Good README.md file.md",
     "Version Control",
     "Attachments/Images",
     "Attachments"
