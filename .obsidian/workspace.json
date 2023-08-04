@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "System Design/Cookies.md",
+                "file": "Python/OOPS in Python.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "System Design/Cookies.md",
+                "file": "Python/OOPS in Python.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "System Design/Cookies.md",
+                "file": "Python/OOPS in Python.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "System Design/Cookies.md"
+                "file": "Python/OOPS in Python.md"
               }
             }
           }
@@ -156,8 +156,12 @@
   },
   "active": "4b3d7b5c455900dd",
   "lastOpenFiles": [
-    "System Design/Caching.md",
+    "Attachments/Images/Screenshot 1402-05-13 at 2.38.58 PM.png",
+    "Attachments/Images/Pasted image 20230804142838.png",
+    "Python/Basics of Python.md",
+    "Python/OOPS in Python.md",
     "System Design/Cookies.md",
+    "System Design/Caching.md",
     "System Design/OAuth2.md",
     "JWT Tokens.md",
     "README.md",
@@ -180,7 +184,6 @@
     "System Design/Content Delivery Networks (CDN).md",
     "System Design/Pagination.md",
     "System Design/Leader Election for Auto-Recovery.md",
-    "Attachments/Images/Message-Queue-YouTube.jpg",
     "Databases/ACID Properties.md",
     "Databases/Indexing a DB.md",
     "System Design/Indexing.md",
@@ -190,12 +193,9 @@
     "System Design",
     "Caching-Points.png.md",
     "Version Control/GitHub Actions.md",
-    "Version Control/Git Stash.md",
-    "Version Control/Git Reset.md",
     "DSA",
     "Databases",
     "Python",
-    "Version Control/Basic Git Commands.md",
     "Version Control",
     "Attachments/Images",
     "Attachments"
