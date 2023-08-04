@@ -29,3 +29,4 @@ These are called when the object gets destroyed OR all references to the object 
 
 >>> Still, a destructor is created using the _ _ del _ _ () method
 
+![[Pasted image 20230804151908.png]]
