@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python/Variables in Python.md",
+                "file": "Python/Threading in Python.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Python/Variables in Python.md",
+                "file": "Python/Threading in Python.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Python/Variables in Python.md",
+                "file": "Python/Threading in Python.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Python/Variables in Python.md"
+                "file": "Python/Threading in Python.md"
               }
             }
           }
@@ -156,8 +156,11 @@
   },
   "active": "4b3d7b5c455900dd",
   "lastOpenFiles": [
-    "Python/OOPS in Python.md",
+    "Attachments/Images/Pasted image 20230806224544.png",
+    "Attachments/Images/Pasted image 20230806224052.png",
     "Python/Variables in Python.md",
+    "Python/Threading in Python.md",
+    "Python/OOPS in Python.md",
     "Attachments/Images/Pasted image 20230804151908.png",
     "Attachments/Images/Screenshot 1402-05-13 at 2.38.58 PM.png",
     "Attachments/Images/Pasted image 20230804142838.png",
@@ -180,7 +183,6 @@
     "Attachments/Images/System.Version.png",
     "Attachments/Images/System.Sessions.png",
     "Attachments/Images/CreateCollectionsinMongoDB.png",
-    "Attachments/Images/MongoErrors.png",
     "System Design/Content Delivery Networks (CDN).md",
     "System Design/Pagination.md",
     "System Design/Leader Election for Auto-Recovery.md",
@@ -191,8 +193,6 @@
     "GraphQL.md",
     "Databases/Triggers-in-DBMS.png.md",
     "System Design",
-    "Caching-Points.png.md",
-    "Version Control/GitHub Actions.md",
     "DSA",
     "Databases",
     "Python",
