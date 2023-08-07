@@ -37,4 +37,9 @@ The basic solution as of now in case of CPU Intensive Applications is using Mult
 For Multithreading: Use multithreading module
 For Multiprocessing: Use multiprocessing module
 
-However, there is an issue with multithreading, they use the same stack memory and the registers, thus one thread might impact the other 
+However, there is an issue with multithreading, they use the same stack memory and the registers, thus one thread might impact the other thread. Eg: if we have a global counter which is incremented and decremented by two functions which are running in two different threads, which impact the 
+
+
+## Async/Await (Event Loop Based Implementation)
+
+All this is to know how can we do things in parallel in Python in order to improve performance. 
