@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python/Generator Functions in Python.md",
+                "file": "Python/Variables in Python.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Python/Generator Functions in Python.md",
+                "file": "Python/Variables in Python.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Python/Generator Functions in Python.md",
+                "file": "Python/Variables in Python.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Python/Generator Functions in Python.md"
+                "file": "Python/Variables in Python.md"
               }
             }
           }
@@ -154,8 +154,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4b3d7b5c455900dd",
+  "active": "4e34d42c352f4133",
   "lastOpenFiles": [
+    "Python/Shallow Copy VS Deep Copy.md",
+    "Python/Variables in Python.md",
+    "Python/Generator Functions in Python.md",
+    "Attachments/Images/Pasted image 20230807154652.png",
     "Attachments/Images/Pasted image 20230807142802.png",
     "Attachments/Images/Pasted image 20230807140131.png",
     "Attachments/Images/Pasted image 20230807133123.png",
@@ -165,11 +169,7 @@
     "Attachments/Images/Pasted image 20230807115729.png",
     "Attachments/Images/Pasted image 20230807115459.png",
     "Python/Threading in Python.md",
-    "Python/Generator Functions in Python.md",
     "Attachments/Images/IMG_2238.jpeg",
-    "Attachments/Images/IMG_2237.png",
-    "Attachments/Images/Pasted image 20230806224544.png",
-    "Python/Variables in Python.md",
     "Python/OOPS in Python.md",
     "Python/Basics of Python.md",
     "System Design/Cookies.md",

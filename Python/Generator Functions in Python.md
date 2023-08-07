@@ -23,7 +23,11 @@ All the yield statements in a generator function just append the yielded value t
 
 ![[Pasted image 20230807120744.png]]
 
-## Using the next() function
+
+## Get values from a Generator Object
+
+Here are some ways to get values from a Generator Object
+### Using the next() function + StopIteration ERROR
 
 To get the values, you can use the next() function. This function generates the current value, and moves on to the next value. 
 
@@ -35,7 +39,7 @@ However, if we call the next() function more than the number of times than the n
 
 One can raise the stopIteration ERROR through code too:
 ![[Pasted image 20230807142802.png]]
-## Using for Loop
+### Using for Loop
 
 We can also use the basic for loop to loop through this Generator Object Iterator as below:
 
@@ -58,6 +62,8 @@ If it would've been a code in which we are returning the list by appending value
 
 But this is not the case with #yield statement.
 
-## GENERATOR DELEGATION
+## Generator Delegation
 
 You can call a generator function through a generator function using the **yield from** keyword.
+
+![[Pasted image 20230807154652.png]]
