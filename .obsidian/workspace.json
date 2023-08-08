@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python/Variables in Python.md",
+                "file": "Python/Datatypes/Integers.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Python/Variables in Python.md",
+                "file": "Python/Datatypes/Integers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Python/Variables in Python.md",
+                "file": "Python/Datatypes/Integers.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Python/Variables in Python.md"
+                "file": "Python/Datatypes/Integers.md"
               }
             }
           }
@@ -154,11 +154,21 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4e34d42c352f4133",
+  "active": "4b3d7b5c455900dd",
   "lastOpenFiles": [
-    "Python/Shallow Copy VS Deep Copy.md",
-    "Python/Variables in Python.md",
+    "Attachments/Images/Pasted image 20230808221731.png",
+    "Python/Datatypes/How are variables stored in Python?.md",
+    "Python/Datatypes/Integers.md",
+    "Python/Datatypes/Basic Variables.md",
+    "Python/Datatypes",
+    "Python/OOPS in Python.md",
+    "Python/Basics/Basics of Python.md",
     "Python/Generator Functions in Python.md",
+    "Python/Basics",
+    "Python/Abstract Syntax Tree (AST).md",
+    "Python/Virtual Environments.md",
+    "Python/Threading in Python.md",
+    "Python/Shallow Copy VS Deep Copy.md",
     "Attachments/Images/Pasted image 20230807154652.png",
     "Attachments/Images/Pasted image 20230807142802.png",
     "Attachments/Images/Pasted image 20230807140131.png",
@@ -168,18 +178,13 @@
     "Attachments/Images/Pasted image 20230807120538.png",
     "Attachments/Images/Pasted image 20230807115729.png",
     "Attachments/Images/Pasted image 20230807115459.png",
-    "Python/Threading in Python.md",
     "Attachments/Images/IMG_2238.jpeg",
-    "Python/OOPS in Python.md",
-    "Python/Basics of Python.md",
     "System Design/Cookies.md",
     "System Design/Caching.md",
     "System Design/OAuth2.md",
     "JWT Tokens.md",
     "README.md",
     "Proxy Server.md",
-    "Python/Virtual Environments.md",
-    "Python/Abstract Syntax Tree (AST).md",
     "System Design/Message Queues or Message Brokers.md",
     "System Design/Load Balancers.md",
     "Python/Python Top Interview Questions.md",
@@ -189,9 +194,6 @@
     "System Design/Leader Election for Auto-Recovery.md",
     "Databases/ACID Properties.md",
     "Databases/Indexing a DB.md",
-    "System Design/Indexing.md",
-    "DSA/Hashing.md",
-    "GraphQL.md",
     "System Design",
     "DSA",
     "Databases",
