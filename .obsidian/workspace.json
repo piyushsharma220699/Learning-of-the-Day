@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python/Datatypes/Numerical Data Types.md",
+                "file": "Python/Datatypes/Set in Python.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Python/Datatypes/Numerical Data Types.md",
+                "file": "Python/Datatypes/Set in Python.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Python/Datatypes/Numerical Data Types.md",
+                "file": "Python/Datatypes/Set in Python.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Python/Datatypes/Numerical Data Types.md"
+                "file": "Python/Datatypes/Set in Python.md"
               }
             }
           }
@@ -156,18 +156,19 @@
   },
   "active": "4b3d7b5c455900dd",
   "lastOpenFiles": [
+    "Python/Datatypes/Boolean Data Type.md",
+    "Python/Datatypes/Set in Python.md",
+    "Python/Datatypes/How are variables stored in Python?.md",
+    "Python/Datatypes/Numerical Data Types.md",
+    "Python/Datatypes/Type Conversion.md",
     "Python/Datatypes/String Data Type.md",
     "Python/Shallow Copy VS Deep Copy.md",
     "Python/Threading in Python.md",
     "Python/Basics/Virtual Environments.md",
     "Python/OOPS/OOPS in Python.md",
-    "Python/Datatypes/Numerical Data Types.md",
     "Python/OOPS",
-    "Python/Datatypes/How are variables stored in Python?.md",
-    "Python/Datatypes/Boolean Data Type.md",
     "Attachments/Images/IMG_2241.jpeg",
     "Attachments/Images/Pasted image 20230808225546.png",
-    "Python/Datatypes/Type Conversion.md",
     "Python/Datatypes/Basic Datatypes.md",
     "Attachments/Images/Pasted image 20230808224013.png",
     "Attachments/Images/Untitled.png",
@@ -194,7 +195,6 @@
     "Databases/Learning MongoDB.md",
     "System Design/Content Delivery Networks (CDN).md",
     "System Design/Pagination.md",
-    "System Design/Leader Election for Auto-Recovery.md",
     "System Design",
     "DSA",
     "Databases",
