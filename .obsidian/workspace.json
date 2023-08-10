@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "2262c5bade45adc3",
+        "id": "a73d8a6b2a3bbc32",
         "type": "tabs",
         "children": [
           {
-            "id": "4b3d7b5c455900dd",
+            "id": "a31e21ff696b3daa",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python/Datatypes/Set in Python.md",
+                "file": "JWT Tokens.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Python/Datatypes/Set in Python.md",
+                "file": "JWT Tokens.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Python/Datatypes/Set in Python.md",
+                "file": "JWT Tokens.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Python/Datatypes/Set in Python.md"
+                "file": "JWT Tokens.md"
               }
             }
           }
@@ -154,10 +154,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4b3d7b5c455900dd",
+  "active": "a31e21ff696b3daa",
   "lastOpenFiles": [
-    "Python/Datatypes/Boolean Data Type.md",
+    "Proxy Server.md",
+    "README.md",
     "Python/Datatypes/Set in Python.md",
+    "Python/Untitled",
+    "Python/Datatypes/Boolean Data Type.md",
     "Python/Datatypes/How are variables stored in Python?.md",
     "Python/Datatypes/Numerical Data Types.md",
     "Python/Datatypes/Type Conversion.md",
@@ -187,20 +190,16 @@
     "System Design/Caching.md",
     "System Design/OAuth2.md",
     "JWT Tokens.md",
-    "README.md",
-    "Proxy Server.md",
     "System Design/Message Queues or Message Brokers.md",
     "System Design/Load Balancers.md",
     "Python/Python Top Interview Questions.md",
     "Databases/Learning MongoDB.md",
     "System Design/Content Delivery Networks (CDN).md",
-    "System Design/Pagination.md",
     "System Design",
     "DSA",
     "Databases",
     "Python",
     "Version Control",
-    "Attachments/Images",
-    "Attachments"
+    "Attachments/Images"
   ]
 }
