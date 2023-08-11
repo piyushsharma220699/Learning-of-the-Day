@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JWT Tokens.md",
+                "file": "Python/Datatypes/Numerical Data Types.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JWT Tokens.md",
+                "file": "Python/Datatypes/Numerical Data Types.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JWT Tokens.md",
+                "file": "Python/Datatypes/Numerical Data Types.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JWT Tokens.md"
+                "file": "Python/Datatypes/Numerical Data Types.md"
               }
             }
           }
@@ -156,15 +156,16 @@
   },
   "active": "a31e21ff696b3daa",
   "lastOpenFiles": [
+    "Python/Datatypes/String Data Type.md",
+    "Python/Datatypes/Set in Python.md",
+    "Python/Datatypes/Type Conversion.md",
+    "Python/Datatypes/How are variables stored in Python?.md",
+    "JWT Tokens.md",
     "Proxy Server.md",
     "README.md",
-    "Python/Datatypes/Set in Python.md",
     "Python/Untitled",
     "Python/Datatypes/Boolean Data Type.md",
-    "Python/Datatypes/How are variables stored in Python?.md",
     "Python/Datatypes/Numerical Data Types.md",
-    "Python/Datatypes/Type Conversion.md",
-    "Python/Datatypes/String Data Type.md",
     "Python/Shallow Copy VS Deep Copy.md",
     "Python/Threading in Python.md",
     "Python/Basics/Virtual Environments.md",
@@ -189,7 +190,6 @@
     "System Design/Cookies.md",
     "System Design/Caching.md",
     "System Design/OAuth2.md",
-    "JWT Tokens.md",
     "System Design/Message Queues or Message Brokers.md",
     "System Design/Load Balancers.md",
     "Python/Python Top Interview Questions.md",
