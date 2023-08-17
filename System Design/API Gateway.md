@@ -1,0 +1,1 @@
+API Gateway is a single point of entry to the clients of an application. 
