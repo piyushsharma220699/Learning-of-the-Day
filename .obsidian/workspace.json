@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python/Datatypes/Numerical Data Types.md",
+                "file": "System Design/API Gateway.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Python/Datatypes/Numerical Data Types.md",
+                "file": "System Design/API Gateway.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Python/Datatypes/Numerical Data Types.md",
+                "file": "System Design/API Gateway.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Python/Datatypes/Numerical Data Types.md"
+                "file": "System Design/API Gateway.md"
               }
             }
           }
@@ -156,6 +156,11 @@
   },
   "active": "a31e21ff696b3daa",
   "lastOpenFiles": [
+    "Redis/Introduction.md",
+    "System Design/API Gateway.md",
+    "System Design/Caching.md",
+    "Redis",
+    "Python/Datatypes/Numerical Data Types.md",
     "Python/Datatypes/String Data Type.md",
     "Python/Datatypes/Set in Python.md",
     "Python/Datatypes/Type Conversion.md",
@@ -165,7 +170,6 @@
     "README.md",
     "Python/Untitled",
     "Python/Datatypes/Boolean Data Type.md",
-    "Python/Datatypes/Numerical Data Types.md",
     "Python/Shallow Copy VS Deep Copy.md",
     "Python/Threading in Python.md",
     "Python/Basics/Virtual Environments.md",
@@ -188,18 +192,15 @@
     "Attachments/Images/Pasted image 20230807140131.png",
     "Attachments/Images/Pasted image 20230807133123.png",
     "System Design/Cookies.md",
-    "System Design/Caching.md",
     "System Design/OAuth2.md",
     "System Design/Message Queues or Message Brokers.md",
     "System Design/Load Balancers.md",
     "Python/Python Top Interview Questions.md",
     "Databases/Learning MongoDB.md",
-    "System Design/Content Delivery Networks (CDN).md",
     "System Design",
     "DSA",
     "Databases",
     "Python",
-    "Version Control",
-    "Attachments/Images"
+    "Version Control"
   ]
 }
