@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "System Design/API Gateway.md",
+                "file": "MongoDB/Intro to MongoDB.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "System Design/API Gateway.md",
+                "file": "MongoDB/Intro to MongoDB.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "System Design/API Gateway.md",
+                "file": "MongoDB/Intro to MongoDB.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "System Design/API Gateway.md"
+                "file": "MongoDB/Intro to MongoDB.md"
               }
             }
           }
@@ -156,8 +156,10 @@
   },
   "active": "a31e21ff696b3daa",
   "lastOpenFiles": [
-    "Redis/Introduction.md",
     "System Design/API Gateway.md",
+    "MongoDB/Intro to MongoDB.md",
+    "MongoDB",
+    "Redis/Introduction.md",
     "System Design/Caching.md",
     "Redis",
     "Python/Datatypes/Numerical Data Types.md",
@@ -196,11 +198,9 @@
     "System Design/Message Queues or Message Brokers.md",
     "System Design/Load Balancers.md",
     "Python/Python Top Interview Questions.md",
-    "Databases/Learning MongoDB.md",
     "System Design",
     "DSA",
     "Databases",
-    "Python",
-    "Version Control"
+    "Python"
   ]
 }
