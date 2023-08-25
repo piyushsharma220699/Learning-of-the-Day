@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MongoDB/Intro to MongoDB.md",
+                "file": "MongoDB/MongoDB CRUD.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MongoDB/Intro to MongoDB.md",
+                "file": "MongoDB/MongoDB CRUD.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MongoDB/Intro to MongoDB.md",
+                "file": "MongoDB/MongoDB CRUD.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MongoDB/Intro to MongoDB.md"
+                "file": "MongoDB/MongoDB CRUD.md"
               }
             }
           }
@@ -156,8 +156,9 @@
   },
   "active": "a31e21ff696b3daa",
   "lastOpenFiles": [
-    "System Design/API Gateway.md",
     "MongoDB/Intro to MongoDB.md",
+    "MongoDB/MongoDB CRUD.md",
+    "System Design/API Gateway.md",
     "MongoDB",
     "Redis/Introduction.md",
     "System Design/Caching.md",
@@ -197,7 +198,6 @@
     "System Design/OAuth2.md",
     "System Design/Message Queues or Message Brokers.md",
     "System Design/Load Balancers.md",
-    "Python/Python Top Interview Questions.md",
     "System Design",
     "DSA",
     "Databases",

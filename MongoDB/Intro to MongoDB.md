@@ -63,3 +63,8 @@ Compound indexes collect and sort data from two or more fields in each document 
 
 A single compound index can contain up to 32 fields.
 
+## Multikey Indexes
+If your application frequently queries a field that contains an array value, a multikey index improves performance for those queries.
+
+db.<collection>.createIndex( { <field>: <sortOrder> } )
+
