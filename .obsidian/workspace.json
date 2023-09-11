@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MongoDB/MongoDB CRUD.md",
+                "file": "Python/OOPS/Class, Static and Instance Methods.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MongoDB/MongoDB CRUD.md",
+                "file": "Python/OOPS/Class, Static and Instance Methods.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MongoDB/MongoDB CRUD.md",
+                "file": "Python/OOPS/Class, Static and Instance Methods.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MongoDB/MongoDB CRUD.md"
+                "file": "Python/OOPS/Class, Static and Instance Methods.md"
               }
             }
           }
@@ -156,8 +156,12 @@
   },
   "active": "a31e21ff696b3daa",
   "lastOpenFiles": [
-    "MongoDB/Intro to MongoDB.md",
+    "Python/OOPS/OOPS in Python.md",
+    "Python/Generator Functions in Python.md",
+    "Python/OOPS/Class, Static and Instance Methods.md",
+    "Python/Threading in Python.md",
     "MongoDB/MongoDB CRUD.md",
+    "MongoDB/Intro to MongoDB.md",
     "System Design/API Gateway.md",
     "MongoDB",
     "Redis/Introduction.md",
@@ -174,9 +178,7 @@
     "Python/Untitled",
     "Python/Datatypes/Boolean Data Type.md",
     "Python/Shallow Copy VS Deep Copy.md",
-    "Python/Threading in Python.md",
     "Python/Basics/Virtual Environments.md",
-    "Python/OOPS/OOPS in Python.md",
     "Python/OOPS",
     "Attachments/Images/IMG_2241.jpeg",
     "Attachments/Images/Pasted image 20230808225546.png",
@@ -187,7 +189,6 @@
     "Attachments/Images/Pasted image 20230808221731.png",
     "Python/Datatypes",
     "Python/Basics/Basics of Python.md",
-    "Python/Generator Functions in Python.md",
     "Python/Basics",
     "Python/Abstract Syntax Tree (AST).md",
     "Attachments/Images/Pasted image 20230807154652.png",
@@ -197,7 +198,6 @@
     "System Design/Cookies.md",
     "System Design/OAuth2.md",
     "System Design/Message Queues or Message Brokers.md",
-    "System Design/Load Balancers.md",
     "System Design",
     "DSA",
     "Databases",
