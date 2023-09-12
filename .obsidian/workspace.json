@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "0a4e54654d906fae",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.12"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -154,7 +165,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a31e21ff696b3daa",
+  "active": "0a4e54654d906fae",
   "lastOpenFiles": [
     "Python/Datatypes/Boolean Data Type.md",
     "Python/Datatypes/Basic Datatypes.md",
