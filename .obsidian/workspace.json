@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python/OOPS/Class, Static and Instance Methods.md",
+                "file": "Python/Datatypes/Numerical Data Types.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Python/OOPS/Class, Static and Instance Methods.md",
+                "file": "Python/Datatypes/Numerical Data Types.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Python/OOPS/Class, Static and Instance Methods.md",
+                "file": "Python/Datatypes/Numerical Data Types.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Python/OOPS/Class, Static and Instance Methods.md"
+                "file": "Python/Datatypes/Numerical Data Types.md"
               }
             }
           }
@@ -156,9 +156,11 @@
   },
   "active": "a31e21ff696b3daa",
   "lastOpenFiles": [
+    "Python/Datatypes/Boolean Data Type.md",
+    "Python/Datatypes/Basic Datatypes.md",
+    "Python/OOPS/Class, Static and Instance Methods.md",
     "Python/OOPS/OOPS in Python.md",
     "Python/Generator Functions in Python.md",
-    "Python/OOPS/Class, Static and Instance Methods.md",
     "Python/Threading in Python.md",
     "MongoDB/MongoDB CRUD.md",
     "MongoDB/Intro to MongoDB.md",
@@ -176,13 +178,11 @@
     "Proxy Server.md",
     "README.md",
     "Python/Untitled",
-    "Python/Datatypes/Boolean Data Type.md",
     "Python/Shallow Copy VS Deep Copy.md",
     "Python/Basics/Virtual Environments.md",
     "Python/OOPS",
     "Attachments/Images/IMG_2241.jpeg",
     "Attachments/Images/Pasted image 20230808225546.png",
-    "Python/Datatypes/Basic Datatypes.md",
     "Attachments/Images/Pasted image 20230808224013.png",
     "Attachments/Images/Untitled.png",
     "Attachments/Images/IMG_2239.jpeg",

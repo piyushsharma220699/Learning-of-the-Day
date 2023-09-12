@@ -13,7 +13,7 @@ Quite obvious, the TYPE here is INTEGER, Value is the value of that integer and 
 In Python, value of an integer is not restricted by the number of bits and can expand to the limit of the available memory. This is because Python uses a technique called 'BigNum Arithmetic' to store and manipulate long integers. Thus, NO INTEGER OVERFLOW takes place.
 ### Integer Caching
 
-Now, the thing is, in CPython, if two variables are assigned values between -5 to 256 (both inclusive), they will point to the same memory location & will return the same value when id() function is used. This can be seen here :
+Now, the thing is, in CPython, if two variables are assigned values between -5 to 256 (both inclusive), they will point to the same memory location & will return the same value when id() function is used. This  can be seen here :
 
 ![[Pasted image 20230808221731.png]]
 
