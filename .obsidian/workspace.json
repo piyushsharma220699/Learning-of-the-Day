@@ -23,9 +23,11 @@
             "id": "0a4e54654d906fae",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.4.12"
+                "file": "Python/Datatypes/List Datatype.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -104,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Python/Datatypes/Numerical Data Types.md",
+                "file": "Python/Datatypes/List Datatype.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Python/Datatypes/Numerical Data Types.md",
+                "file": "Python/Datatypes/List Datatype.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Python/Datatypes/Numerical Data Types.md"
+                "file": "Python/Datatypes/List Datatype.md"
               }
             }
           }
@@ -167,8 +169,11 @@
   },
   "active": "0a4e54654d906fae",
   "lastOpenFiles": [
-    "Python/Datatypes/Boolean Data Type.md",
     "Python/Datatypes/Basic Datatypes.md",
+    "Python/Datatypes/List Datatype.md",
+    "Python/Datatypes/String Data Type.md",
+    "Python/Datatypes/Numerical Data Types.md",
+    "Python/Datatypes/Boolean Data Type.md",
     "Python/OOPS/Class, Static and Instance Methods.md",
     "Python/OOPS/OOPS in Python.md",
     "Python/Generator Functions in Python.md",
@@ -180,8 +185,6 @@
     "Redis/Introduction.md",
     "System Design/Caching.md",
     "Redis",
-    "Python/Datatypes/Numerical Data Types.md",
-    "Python/Datatypes/String Data Type.md",
     "Python/Datatypes/Set in Python.md",
     "Python/Datatypes/Type Conversion.md",
     "Python/Datatypes/How are variables stored in Python?.md",
@@ -208,7 +211,6 @@
     "Attachments/Images/Pasted image 20230807133123.png",
     "System Design/Cookies.md",
     "System Design/OAuth2.md",
-    "System Design/Message Queues or Message Brokers.md",
     "System Design",
     "DSA",
     "Databases",
