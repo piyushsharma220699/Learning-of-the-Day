@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python/Datatypes/List Datatype.md",
+                "file": "Python/OOPS/Class, Static and Instance Methods.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Python/Datatypes/List Datatype.md",
+                "file": "Python/OOPS/Class, Static and Instance Methods.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Python/Datatypes/List Datatype.md",
+                "file": "Python/OOPS/Class, Static and Instance Methods.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Python/Datatypes/List Datatype.md"
+                "file": "Python/OOPS/Class, Static and Instance Methods.md"
               }
             }
           }
@@ -167,12 +167,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0a4e54654d906fae",
+  "active": "4e34d42c352f4133",
   "lastOpenFiles": [
-    "Python/Datatypes/Basic Datatypes.md",
     "Python/Datatypes/List Datatype.md",
-    "Python/Datatypes/String Data Type.md",
     "Python/Datatypes/Numerical Data Types.md",
+    "Python/Datatypes/Set in Python.md",
+    "Python/Datatypes/Basic Datatypes.md",
+    "Python/Datatypes/String Data Type.md",
     "Python/Datatypes/Boolean Data Type.md",
     "Python/OOPS/Class, Static and Instance Methods.md",
     "Python/OOPS/OOPS in Python.md",
@@ -185,7 +186,6 @@
     "Redis/Introduction.md",
     "System Design/Caching.md",
     "Redis",
-    "Python/Datatypes/Set in Python.md",
     "Python/Datatypes/Type Conversion.md",
     "Python/Datatypes/How are variables stored in Python?.md",
     "JWT Tokens.md",
