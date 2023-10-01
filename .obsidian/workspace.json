@@ -30,9 +30,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "e923694c3d6a93c9",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.13"
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -167,7 +177,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4e34d42c352f4133",
+  "active": "e923694c3d6a93c9",
   "lastOpenFiles": [
     "Python/Datatypes/List Datatype.md",
     "Python/Datatypes/Numerical Data Types.md",
