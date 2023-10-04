@@ -33,6 +33,8 @@
 
 There are three Default Databases : admin, config and local. In the admin database, a collection by the name system.version is present. In config database, system. sessions is present and in local database, startup_log collection is present.
 
+The main purpose of this admin database is to store system collections and user authentication and authorization data, which includes the administrator and user's usernames, passwords, and roles. Access is limited to only to administrators, who have the ability to create, update, and delete users and assign roles.
+
 ![[DefaultCluster.jpg]]
 
 Also, Here are the values present in the Collection :

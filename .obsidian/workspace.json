@@ -47,9 +47,11 @@
             "id": "00c4e743fdc1b70e",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.4.14"
+                "file": "Databases/Learning MongoDB.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -128,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Databases/Indexing a DB.md",
+                "file": "Databases/Learning MongoDB.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Databases/Indexing a DB.md",
+                "file": "Databases/Learning MongoDB.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Databases/Indexing a DB.md"
+                "file": "Databases/Learning MongoDB.md"
               }
             }
           }
@@ -191,8 +193,8 @@
   },
   "active": "00c4e743fdc1b70e",
   "lastOpenFiles": [
-    "Databases/ACID PROPERTIES.md",
     "Databases/Indexing a DB.md",
+    "Databases/ACID PROPERTIES.md",
     "Python/Datatypes/List Datatype.md",
     "Python/Datatypes/Numerical Data Types.md",
     "Python/Datatypes/Set in Python.md",
