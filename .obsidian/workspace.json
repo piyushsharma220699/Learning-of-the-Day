@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python/Datatypes/Numerical Data Types.md",
+                "file": "Python/OOPS/OOPS in Python.md",
                 "mode": "source",
                 "source": false
               }
@@ -130,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Python/Datatypes/Numerical Data Types.md",
+                "file": "Python/OOPS/OOPS in Python.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Python/Datatypes/Numerical Data Types.md",
+                "file": "Python/OOPS/OOPS in Python.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Python/Datatypes/Numerical Data Types.md"
+                "file": "Python/OOPS/OOPS in Python.md"
               }
             }
           }
@@ -193,21 +193,22 @@
   },
   "active": "00c4e743fdc1b70e",
   "lastOpenFiles": [
-    "Python/Datatypes/Boolean Data Type.md",
+    "Python/OOPS/Class, Static and Instance Methods.md",
     "Python/Datatypes/Basic Datatypes.md",
-    "Python/Threading in Python.md",
+    "Python/Datatypes/Boolean Data Type.md",
+    "Python/Datatypes/List Datatype.md",
+    "Python/Datatypes/Numerical Data Types.md",
+    "Python/Datatypes/Set in Python.md",
+    "Python/Datatypes/Type Conversion.md",
+    "Python/Datatypes/String Data Type.md",
     "Python/Shallow Copy VS Deep Copy.md",
     "Python/Python Top Interview Questions.md",
     "Python/Generator Functions in Python.md",
+    "Python/Threading in Python.md",
     "Python/Abstract Syntax Tree (AST).md",
     "Databases/Learning MongoDB.md",
     "Databases/Indexing a DB.md",
     "Databases/ACID PROPERTIES.md",
-    "Python/Datatypes/List Datatype.md",
-    "Python/Datatypes/Numerical Data Types.md",
-    "Python/Datatypes/Set in Python.md",
-    "Python/Datatypes/String Data Type.md",
-    "Python/OOPS/Class, Static and Instance Methods.md",
     "Python/OOPS/OOPS in Python.md",
     "MongoDB/MongoDB CRUD.md",
     "MongoDB/Intro to MongoDB.md",
@@ -216,7 +217,6 @@
     "Redis/Introduction.md",
     "System Design/Caching.md",
     "Redis",
-    "Python/Datatypes/Type Conversion.md",
     "Python/Datatypes/How are variables stored in Python?.md",
     "JWT Tokens.md",
     "Proxy Server.md",
