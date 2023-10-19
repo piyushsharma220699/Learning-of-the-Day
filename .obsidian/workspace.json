@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Databases/Learning MongoDB.md",
+                "file": "Python/Datatypes/Numerical Data Types.md",
                 "mode": "source",
                 "source": false
               }
@@ -130,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Databases/Learning MongoDB.md",
+                "file": "Python/Datatypes/Numerical Data Types.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Databases/Learning MongoDB.md",
+                "file": "Python/Datatypes/Numerical Data Types.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Databases/Learning MongoDB.md"
+                "file": "Python/Datatypes/Numerical Data Types.md"
               }
             }
           }
@@ -193,18 +193,22 @@
   },
   "active": "00c4e743fdc1b70e",
   "lastOpenFiles": [
+    "Python/Datatypes/Boolean Data Type.md",
+    "Python/Datatypes/Basic Datatypes.md",
+    "Python/Threading in Python.md",
+    "Python/Shallow Copy VS Deep Copy.md",
+    "Python/Python Top Interview Questions.md",
+    "Python/Generator Functions in Python.md",
+    "Python/Abstract Syntax Tree (AST).md",
+    "Databases/Learning MongoDB.md",
     "Databases/Indexing a DB.md",
     "Databases/ACID PROPERTIES.md",
     "Python/Datatypes/List Datatype.md",
     "Python/Datatypes/Numerical Data Types.md",
     "Python/Datatypes/Set in Python.md",
-    "Python/Datatypes/Basic Datatypes.md",
     "Python/Datatypes/String Data Type.md",
-    "Python/Datatypes/Boolean Data Type.md",
     "Python/OOPS/Class, Static and Instance Methods.md",
     "Python/OOPS/OOPS in Python.md",
-    "Python/Generator Functions in Python.md",
-    "Python/Threading in Python.md",
     "MongoDB/MongoDB CRUD.md",
     "MongoDB/Intro to MongoDB.md",
     "System Design/API Gateway.md",
@@ -218,8 +222,6 @@
     "Proxy Server.md",
     "README.md",
     "Python/Untitled",
-    "Python/Shallow Copy VS Deep Copy.md",
-    "Python/Basics/Virtual Environments.md",
     "Python/OOPS",
     "Attachments/Images/IMG_2241.jpeg",
     "Attachments/Images/Pasted image 20230808225546.png",
@@ -228,9 +230,7 @@
     "Attachments/Images/IMG_2239.jpeg",
     "Attachments/Images/Pasted image 20230808221731.png",
     "Python/Datatypes",
-    "Python/Basics/Basics of Python.md",
     "Python/Basics",
-    "Python/Abstract Syntax Tree (AST).md",
     "Attachments/Images/Pasted image 20230807154652.png",
     "Attachments/Images/Pasted image 20230807142802.png",
     "Attachments/Images/Pasted image 20230807140131.png",
