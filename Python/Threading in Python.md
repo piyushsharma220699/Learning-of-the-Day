@@ -21,6 +21,8 @@ Now, if the program is I/O intensive, then while we're waiting for Input/Output 
 
 However, if we are having only CPU Intensive Applications, the context switching will happen only when the switching time ends. That will actually not help the code in performance. It actually makes the code performance a bit poor due to the context switch time addition in it.
 
+Also, there is time that goes in creation of threads and their maintenance too.
+
 ![[IMG_2238.jpeg]]
 #### Hence, it is not advised to use Threads when you have CPU Intensive work in case of Python
 

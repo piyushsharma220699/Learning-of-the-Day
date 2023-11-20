@@ -59,9 +59,11 @@
             "id": "83da89923a13751b",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.4.16"
+                "file": "Python/Threading in Python.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -140,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Python/OOPS/OOPS in Python.md",
+                "file": "Python/Threading in Python.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Python/OOPS/OOPS in Python.md",
+                "file": "Python/Threading in Python.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -180,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Python/OOPS/OOPS in Python.md"
+                "file": "Python/Threading in Python.md"
               }
             }
           }
@@ -203,6 +205,10 @@
   },
   "active": "83da89923a13751b",
   "lastOpenFiles": [
+    "Python/Shallow Copy VS Deep Copy.md",
+    "Python/Python Top Interview Questions.md",
+    "Python/Generator Functions in Python.md",
+    "Python/Abstract Syntax Tree (AST).md",
     "Python/OOPS/Class, Static and Instance Methods.md",
     "Python/Datatypes/Basic Datatypes.md",
     "Python/Datatypes/Boolean Data Type.md",
@@ -211,11 +217,7 @@
     "Python/Datatypes/Set in Python.md",
     "Python/Datatypes/Type Conversion.md",
     "Python/Datatypes/String Data Type.md",
-    "Python/Shallow Copy VS Deep Copy.md",
-    "Python/Python Top Interview Questions.md",
-    "Python/Generator Functions in Python.md",
     "Python/Threading in Python.md",
-    "Python/Abstract Syntax Tree (AST).md",
     "Databases/Learning MongoDB.md",
     "Databases/Indexing a DB.md",
     "Databases/ACID PROPERTIES.md",
