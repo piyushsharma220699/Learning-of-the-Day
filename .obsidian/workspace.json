@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python/Datatypes/Basic Datatypes.md",
+                "file": "System Design/Pagination.md",
                 "mode": "source",
                 "source": false
               }
@@ -142,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Python/Datatypes/Basic Datatypes.md",
+                "file": "System Design/Pagination.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Python/Datatypes/Basic Datatypes.md",
+                "file": "System Design/Pagination.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Python/Datatypes/Basic Datatypes.md"
+                "file": "System Design/Pagination.md"
               }
             }
           }
@@ -205,34 +205,34 @@
   },
   "active": "83da89923a13751b",
   "lastOpenFiles": [
+    "System Design/OAuth2.md",
+    "System Design/Message Queues or Message Brokers.md",
+    "System Design/Load Balancers.md",
+    "System Design/Leader Election for Auto-Recovery.md",
+    "System Design/Content Delivery Networks (CDN).md",
+    "System Design/Caching.md",
+    "System Design/API Gateway.md",
+    "Redis/Introduction.md",
+    "System Design/Pagination.md",
+    "System Design/Cookies.md",
+    "Databases/Learning MongoDB.md",
+    "Databases/Indexing a DB.md",
+    "Databases/ACID PROPERTIES.md",
+    "Python/Datatypes/Basic Datatypes.md",
     "Python/Datatypes/Type Conversion.md",
     "Python/Datatypes/String Data Type.md",
     "Python/Datatypes/List Datatype.md",
     "Python/Datatypes/Set in Python.md",
     "Python/Datatypes/Numerical Data Types.md",
     "Python/Datatypes/Boolean Data Type.md",
-    "Python/Datatypes/Basic Datatypes.md",
     "Python/OOPS/Class, Static and Instance Methods.md",
     "Python/OOPS/OOPS in Python.md",
     "Python/Threading in Python.md",
     "Python/Shallow Copy VS Deep Copy.md",
     "Python/Python Top Interview Questions.md",
     "Python/Generator Functions in Python.md",
-    "Python/Abstract Syntax Tree (AST).md",
-    "Databases/Learning MongoDB.md",
-    "Databases/Indexing a DB.md",
-    "Databases/ACID PROPERTIES.md",
-    "MongoDB/MongoDB CRUD.md",
-    "MongoDB/Intro to MongoDB.md",
-    "System Design/API Gateway.md",
     "MongoDB",
-    "Redis/Introduction.md",
-    "System Design/Caching.md",
     "Redis",
-    "Python/Datatypes/How are variables stored in Python?.md",
-    "JWT Tokens.md",
-    "Proxy Server.md",
-    "README.md",
     "Python/Untitled",
     "Python/OOPS",
     "Attachments/Images/IMG_2241.jpeg",
