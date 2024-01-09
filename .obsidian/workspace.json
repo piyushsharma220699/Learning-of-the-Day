@@ -66,9 +66,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "6083e63298aee9a1",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.3"
+              }
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -203,7 +213,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "83da89923a13751b",
+  "active": "6083e63298aee9a1",
   "lastOpenFiles": [
     "System Design/OAuth2.md",
     "System Design/Message Queues or Message Brokers.md",
